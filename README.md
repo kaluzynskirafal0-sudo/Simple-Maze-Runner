@@ -3,4 +3,8 @@ A simple Unity game created as part of my studies.
 
 Controls: WASD
 
-From the moment the game starts, an invisible countdown begins. It summarizes the amount of hits you've taken and the overall time you finished the game with.
+Features:
+- Timer system tracking completion time and player hits
+- Collision system with visual feedback (obstacles change colour on hit)
+- Trigger-based traps (falling obstacles)
+- Projectile system targeting player position after trigger activation
