@@ -1,5 +1,5 @@
 # Simple-Maze-Runner
-My first Unity project that I made for college credit.
+A simple Unity game created as part of my studies.
 
 Controls: WASD
 
